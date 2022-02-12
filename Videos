@@ -1,0 +1,11 @@
+1) https://watch.screencastify.com/v/1ZjHJZIKSiiGh9s4CTuG
+2) https://watch.screencastify.com/v/spmV8YcfotR6C76Ow9Gq
+
+1.  Realice el (Digest Authentication (user and pass: admin)) que consiste en una prueba
+    para que un usuario registrado ingrese de manera satisfactoria una página, en este caso
+    ingrese un usuario que no estaba registrado y automáticamente rechazo la entrada
+    demostrando ese error.
+
+2.  Realice el (Inputs) que es una prueba para ingresar números en un campo con forma de
+    barra donde solo se debería de poder ingresar números, estos numero pueden ser
+    positivos y negativo, pero en este caso me dejo ingresar una letra que sería la “E”.
